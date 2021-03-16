@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "InClass1\Arrays.csproj", "{34276B44-E2EE-4F85-ACC0-523CCE80B586}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClass2", "InClass2\InClass2.csproj", "{F54176A5-7B3D-481E-BB89-08483103590A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "InClass2\Dictionary.csproj", "{F54176A5-7B3D-481E-BB89-08483103590A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClass3", "InClass3\InClass3.csproj", "{77F5DC68-F706-4539-9522-1E332339347F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "InClass3\List.csproj", "{77F5DC68-F706-4539-9522-1E332339347F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
