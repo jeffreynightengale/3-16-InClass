@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "InClass1\Arrays.csproj", "{34276B44-E2EE-4F85-ACC0-523CCE80B586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClass2", "InClass2\InClass2.csproj", "{F54176A5-7B3D-481E-BB89-08483103590A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClass3", "InClass3\InClass3.csproj", "{77F5DC68-F706-4539-9522-1E332339347F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34276B44-E2EE-4F85-ACC0-523CCE80B586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34276B44-E2EE-4F85-ACC0-523CCE80B586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34276B44-E2EE-4F85-ACC0-523CCE80B586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34276B44-E2EE-4F85-ACC0-523CCE80B586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54176A5-7B3D-481E-BB89-08483103590A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54176A5-7B3D-481E-BB89-08483103590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54176A5-7B3D-481E-BB89-08483103590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54176A5-7B3D-481E-BB89-08483103590A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F5DC68-F706-4539-9522-1E332339347F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F5DC68-F706-4539-9522-1E332339347F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F5DC68-F706-4539-9522-1E332339347F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F5DC68-F706-4539-9522-1E332339347F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {160D1552-AF66-41E3-8606-A24D8C385475}
+	EndGlobalSection
+EndGlobal
